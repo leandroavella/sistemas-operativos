@@ -1,0 +1,3 @@
+Ingrese usuario: Error: in prepare, no such column: genio
+   INTO productos (nombre, precio) VALUES ('genio', genio);
+                                      error here ---^
